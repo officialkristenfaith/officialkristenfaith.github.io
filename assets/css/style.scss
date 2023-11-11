@@ -52,6 +52,8 @@ a.navbar-item.is-active {
         background-repeat: no-repeat;
         background-size: cover;
         -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
         background-attachment: fixed;
         top: 0px;
         right: 0px;
@@ -62,11 +64,16 @@ a.navbar-item.is-active {
         content: "";
     }
 }
-@media (max-width: 768px) {
+@supports (-webkit-overflow-scrolling: touch) { 	
     #hero::before {
-        background-size: 1200px 1200px; /* Fixed size for smaller screens */
+        background-attachment:scroll;
     }
 }
+// @media (max-width: 768px) {
+//     #hero::before {
+//         background-attachment:scroll;
+//     }
+// }
 .title {
     margin: auto 0.75rem!important;
 }
