@@ -15,7 +15,7 @@ site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: /assets/images/profile_circle.JPG
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: /assets/images/main_profile.jpeg
@@ -35,7 +35,7 @@ github_username:
 reddit_username: 
 behance_username: 
 dribbble_username: 
-spotify_username: 
+spotify_username: 3XBUuDr6icOeXadDjveg4C
 
 # Google Analytics - need to update
 google-analytics: UA-163806439-1
@@ -67,6 +67,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Permalink
 permalink: "blog/:title"
