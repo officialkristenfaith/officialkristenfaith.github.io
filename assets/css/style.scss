@@ -366,3 +366,15 @@ a.navbar-item.is-active {
         }
     }
 }
+
+.k-font {
+    font-family: 'Rock Salt', cursive;
+    text-transform: initial;
+    font-size: 90px;
+    margin-bottom: 20px !important;
+    @media (max-width: 768px) {
+        font-size: 50px;
+    }
+}
+
+

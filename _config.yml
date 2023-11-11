@@ -23,33 +23,35 @@ heroimage: /assets/images/main_profile.jpeg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: kristenfaith.17@gmail.com
-facebook_username: thedevslot
-instagram_username: thedevslot
-tiktok_username: 
-youtube_channel_id: 
 
+instagram_username: officialkristenfaith
+tiktok_username: officialkristenfaith
+youtube_channel_id: UCnugfGF1ViKa720VCqi6Mmg
+
+facebook_username: 
 twitter_username: 
 linkedin_username: 
 github_username:  
-reddit_username: /
-behance_username: /
-dribbble_username: /
-spotify_username: /
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
 
-# Google Analytics
+# Google Analytics - need to update
 google-analytics: UA-163806439-1
 
 # Disqus
-disqus-shortname: thedevslot
+disqus-shortname: 
 
 # Name of the Author
 author-name: Kristen Faith
 # URL for the Image of the Author
 author-image: /assets/images/main_profile.png
+author-image-circle: /assets/images/profile_circle.JPG
 # 60 Words About the Author
 author-about: She is a self taught musician with a passion for song-writing and a heart to be heard. Her musical style has influence from her early days in church and a loving and talented father. This is just the beginning of her story.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-url: https://github.com/andrewmontoyaiv
 albums:
   never_gave_up_on_me:
     img: /assets/images/never_gave_up_on_me.JPG
